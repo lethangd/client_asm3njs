@@ -1,6 +1,7 @@
 {
   "name": "rjs-asm03",
   "version": "0.1.0",
+  "homepage": "https://lethangd.github.io/client_asm3njs",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
